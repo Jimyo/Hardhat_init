@@ -11,7 +11,7 @@ npm install
 |  ----  | ----  | ---- |
 | hardhat  | Hardhat核心 |
 | hardhat-contract-sizer  | Solidity size 輔助套件 | `require('hardhat-contract-sizer');`|
-| hardhat-gas-reporter | 合約呼叫Gas Fee 輔助套件 |
+| hardhat-gas-reporter | 合約呼叫Gas Fee 輔助套件 | `require("hardhat-gas-reporter");` |
 | @nomiclabs/hardhat-ethers | Hardhat ether.js 集成套件 |
 | @nomiclabs/hardhat-waffle | Hardhat waffle 集成套件 | `require("@nomiclabs/hardhat-waffle");` |
 | @nomiclabs/hardhat-etherscan | Etherscan 驗證合約套件 | `require("@nomiclabs/hardhat-etherscan");` |
